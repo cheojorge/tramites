@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tramites/static/css/main.073c9b0a.css",
+    "main.js": "/tramites/static/js/main.848f28a4.js",
+    "static/js/787.8d72b82e.chunk.js": "/tramites/static/js/787.8d72b82e.chunk.js",
+    "index.html": "/tramites/index.html",
+    "main.073c9b0a.css.map": "/tramites/static/css/main.073c9b0a.css.map",
+    "main.848f28a4.js.map": "/tramites/static/js/main.848f28a4.js.map",
+    "787.8d72b82e.chunk.js.map": "/tramites/static/js/787.8d72b82e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.848f28a4.js"
+  ]
+}
